@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "the-seiaic"
+version = "1.0.0"
+description = "toolkit for members of SEIAIC staff at Setternet Federated Cyberzones Spacenet"
+authors = ["Sett Sarverott <sarverott@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

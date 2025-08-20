@@ -1,0 +1,26 @@
+{
+  "name": "the-seiaic",
+  "version": "1.0.0",
+  "description": "standard armory for members of SEIAIC staff ",
+  "keywords": [
+    "UCDI"
+  ],
+  "homepage": "https://github.com/Sarverott/SEIAIC_stuff#readme",
+  "bugs": {
+    "url": "https://github.com/Sarverott/SEIAIC_stuff/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarverott/SEIAIC_stuff.git"
+  },
+  "license": "MIT",
+  "author": "Sett Sarverott",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "task test"
+  }
+}
